@@ -20,7 +20,7 @@ public class Constants {
     /**
      * Whether this is an OEM preinstallation
      */
-    public static final boolean OEM = false;
+    public static final boolean OEM = true;
 
     /**
      * Whether to display synchronization options
